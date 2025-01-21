@@ -5,7 +5,7 @@
   "sources": {
     "v": {
       "type": "vector",
-      "url": "https://k96mz.github.io/20250114VTtest3/VectorTileServer/",
+      "url": "https://k96mz.github.io/20250114VTtest3/VectorTileServer",
       "minzoom": 0,
       "maxzoom": 3
     }
